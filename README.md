@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MilenaMiladinova
 - 👀 I’m interested in QA
-- 🌱 I’m currently learning Java, Selenium, Cybersec
+- 🌱 I’m currently working with Java & Selenium.
 - 💞️ I’m looking to collaborate on everything related to Quality assurance.
 - 📫 How to reach me: mailanamilena@gmail.com
 
